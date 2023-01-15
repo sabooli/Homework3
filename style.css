@@ -132,3 +132,44 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+@media (max-width: 768px) {
+  h1 {
+    font-size: 58px;
+    margin: 10px;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  .country {
+    font-size: 14px;
+  }
+  .col-sm-6 {
+  }
+  body {
+    text-align: center;
+    margin: 20px auto;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .Yoga {
+    padding: 20px 50px;
+    margin: 0;
+  }
+  .title {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  .mobile {
+    display: none;
+  }
+  .email-link {
+    font-size: 20px;
+  }
+}
