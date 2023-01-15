@@ -46,12 +46,12 @@ h3 {
 }
 .title {
   text-align: left;
-  padding: 20px;
+  padding: 14px;
 }
 
 p {
   background-color: white;
-  padding: 20px;
+  padding: 15px;
   border-radius: 4px;
   font-size: 18px;
   line-height: 1.5;
@@ -86,8 +86,8 @@ p {
   color: white;
 }
 .img-fluid {
-  width: 550px;
-  height: 380px;
+  width: 500px;
+  height: 360px;
 }
 .design {
   box-sizing: border-box;
