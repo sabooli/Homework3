@@ -85,6 +85,10 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.img-fluid {
+  width: 550px;
+  height: 380px;
+}
 .design {
   box-sizing: border-box;
   padding: 10px;
