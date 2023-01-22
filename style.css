@@ -146,8 +146,6 @@ p {
   .country {
     font-size: 14px;
   }
-  .col-sm-6 {
-  }
   body {
     text-align: center;
     margin: 20px auto;
@@ -163,8 +161,11 @@ p {
   .title {
     text-align: center;
   }
+
   p {
     text-align: center;
+    display: table-row;
+    width: 100%;
   }
   .mobile {
     display: none;
