@@ -133,10 +133,6 @@ p {
   text-decoration: underline;
 }
 @media (max-width: 768px) {
-  .row {
-    flex-direction: column-reverse;
-    text-align: center;
-  }
   h1 {
     font-size: 58px;
     margin: 10px;
@@ -150,13 +146,13 @@ p {
   .country {
     font-size: 14px;
   }
-  body {
-    text-align: center;
-    margin: 20px auto;
-  }
   img {
     max-width: 100%;
     height: auto;
+  }
+  body {
+    text-align: center;
+    margin: 20px auto;
   }
   .Yoga {
     padding: 20px 50px;
