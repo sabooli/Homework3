@@ -135,6 +135,7 @@ p {
 @media (max-width: 768px) {
   .row {
     flex-direction: column-reverse;
+    text-align: center;
   }
   h1 {
     font-size: 58px;
